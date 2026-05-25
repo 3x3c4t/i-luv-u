@@ -110,4 +110,4 @@ Use at your own risk.
 
 ## License
 
-Unknown / Original source not specified.
+MIT
